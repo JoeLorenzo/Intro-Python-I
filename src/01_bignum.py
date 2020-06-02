@@ -5,3 +5,5 @@
 
 x = 2**65536
 print(x)
+
+# in javascript the output is Infinity.
